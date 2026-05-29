@@ -1,10 +1,5 @@
 # LPC1769 LPCOpen Basics: ADC Example
 
-[![MCU](https://shields.io)](https://nxp.com)
-[![SDK](https://shields.io)](https://nxp.com)
-[![IDE](https://shields.io)](https://nxp.com)
-[![Language](https://shields.io)](https://wikipedia.org)
-
 A clean, production-ready example demonstrating how to configure and read the Analog-to-Digital Converter (ADC) peripheral on the **NXP LPC1769** microcontroller using the **LPCOpen v2.xx** firmware libraries inside **MCUXpresso IDE**.
 
 This repository serves as a starter guide for firmware engineers learning bare-metal or low-level driver integration for the Cortex-M3 architecture.
