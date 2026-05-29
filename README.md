@@ -49,7 +49,7 @@ This repository serves as a starter guide for firmware engineers learning bare-m
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com
+   git clone https://github.com/ramipalomeque/lpc1769-lpcopen-basics-adc.git
    ```
 2. **Import into MCUXpresso:**
    * Open MCUXpresso IDE.
